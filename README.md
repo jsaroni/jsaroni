@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @jsaroni
+- Recent preprint https://arxiv.org/abs/2307.14508
 - 👀 I’m interested in quantum computing algorithms
 - 🌱 I’m currently learning quantum computing simulations of non-equilibrium thermal quantum quenches 
 - 💞️ I’m looking to collaborate on quantum computing algorithms
