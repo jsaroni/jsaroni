@@ -14,5 +14,5 @@ You can click the Preview link to take a look at your changes.
 Badges
 
 ![image](https://github.com/jsaroni/jsaroni/assets/77505813/8d6c2f7d-f8c7-430d-87ff-dfa33cf58b28)
-![2022_ibm_fall_challenge](https://github.com/jsaroni/jsaroni/assets/77505813/b9fa77d4-34b9-4060-9521-9442ae837d36)
-![2022_qgss](https://github.com/jsaroni/jsaroni/assets/badges/127ca422-8291-40fc-8686-3449f9a20a80/public_url)
+![2022_ibm_fall_challenge](https://github.com/jsaroni/jsaroni/assets/77505813/b9fa77d4-34b9-4060-9521-9442ae837d36) ![2022_qgss](https://github.com/jsaroni/jsaroni/assets/77505813/3ff045f5-ad88-4c71-b389-f7a1e2597a90)
+
