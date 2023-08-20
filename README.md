@@ -17,3 +17,20 @@ Badges
 <img src="https://github.com/jsaroni/jsaroni/assets/77505813/b9fa77d4-34b9-4060-9521-9442ae837d36" width="250" height="250">
 <img src="https://github.com/jsaroni/jsaroni/assets/77505813/3ff045f5-ad88-4c71-b389-f7a1e2597a90" width="250" height="250">
 
+"root":{
+"@context":"https://w3id.org/openbadges/v2"
+"type":"Assertion"
+"id":"https://api-lb.appfurther.io/v2/ims/50417793084750"
+"badge":"https://api-lb.appfurther.io/v2/ims/badgeClass/50417793084750"
+"image":"https://api-lb.appfurther.io/v2/ims/image/50417793084750"
+"verification":{
+"type":"HostedBadge"
+}
+"issuedOn":"2022-12-02T23:48:35.635Z"
+"recipient":{
+"type":"email"
+"hashed":false
+"identity":"jsaroni@alumni.nd.edu"
+}
+"evidence":[]
+}
