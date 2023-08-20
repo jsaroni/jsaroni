@@ -17,5 +17,5 @@ Badges
 ![2022_ibm_fall_challenge](https://github.com/jsaroni/jsaroni/assets/77505813/b9fa77d4-34b9-4060-9521-9442ae837d36) 
 ![2022_qgss](https://github.com/jsaroni/jsaroni/assets/77505813/3ff045f5-ad88-4c71-b389-f7a1e2597a90)
 
-<img src="https://github.com/jsaroni/jsaroni/assets/77505813/9db8a69c-1d82-43ea-9d05-3aa4c42f29e9" width="100" height="100">
+<img src="https://www.credly.com/badges/127ca422-8291-40fc-8686-3449f9a20a80/public_url" width="100" height="100">
 
