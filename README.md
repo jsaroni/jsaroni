@@ -10,4 +10,5 @@ jsaroni/jsaroni is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-https://www.credly.com/earner/earned/badge/7c44cbcb-cf43-4aa6-bc2b-f8fde327b4f7
+
+![image](https://github.com/jsaroni/jsaroni/assets/77505813/8d6c2f7d-f8c7-430d-87ff-dfa33cf58b28)
