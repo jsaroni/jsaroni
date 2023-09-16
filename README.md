@@ -28,12 +28,6 @@ Badges | All certificates are in https://github.com/jsaroni/jsaroni/tree/main/Ce
 
 
 
-<a href="https://www.credly.com/badges/93cc0c95-3361-4c6e-b127-18be15d70b0b" rel="nofollow">
-    <img src="https://user-images.githubusercontent.com/64653897/201473060-4987468d-43c6-44fe-8457-10c029cc1416.png" width="140" height="140" style="max-width: 100%;">
-</a>
-
-
-
 
 
 
