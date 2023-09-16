@@ -20,23 +20,22 @@ Badges | All certificates are in https://github.com/jsaroni/jsaroni/tree/main/Ce
 
 
 
-
-<a href="https://www.credly.com/earner/earned/badge/fd347c0e-adc4-4e01-a7c4-ad32f1a47d2b" rel="nofollow">
+<a href="https://www.credly.com/badges/fd347c0e-adc4-4e01-a7c4-ad32f1a47d2b" rel="nofollow">
     <img src="https://github.com/jsaroni/jsaroni/blob/main/Certificates%20and%20Badges/2023/ibm-certified-associate-developer-quantum-computation-using-qiskit-v0-2x.png" width="250" height="250" style="max-width: 100%;">
 </a>
 
 
-<a href="https://www.credly.com/earner/earned/badge/7c44cbcb-cf43-4aa6-bc2b-f8fde327b4f7" rel="nofollow">
+<a href="https://www.credly.com/badges/7c44cbcb-cf43-4aa6-bc2b-f8fde327b4f7" rel="nofollow">
     <img src="https://github.com/jsaroni/jsaroni/blob/main/Certificates%20and%20Badges/2023/ibm_spring_challenge_2023.png" width="250" height="250" style="max-width: 100%;">
 </a>
 
 
-<a href="https://www.credly.com/earner/earned/badge/7b9d30e9-775d-49a4-90d8-08f7d705ef68" rel="nofollow">
+<a href="https://www.credly.com/badges/7b9d30e9-775d-49a4-90d8-08f7d705ef68" rel="nofollow">
     <img src="https://github.com/jsaroni/jsaroni/blob/main/Certificates%20and%20Badges/2023/ibm_fall_challenge_2022.png" width="250" height="250" style="max-width: 100%;">
 </a>
 
 
-<a href="https://www.credly.com/earner/earned/badge/127ca422-8291-40fc-8686-3449f9a20a80" rel="nofollow">
+<a href="https://www.credly.com/badges/127ca422-8291-40fc-8686-3449f9a20a80" rel="nofollow">
     <img src="https://github.com/jsaroni/jsaroni/blob/main/Certificates%20and%20Badges/2023/qgss_2022.png" width="250" height="250" style="max-width: 100%;">
 </a>
 
