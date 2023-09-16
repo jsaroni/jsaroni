@@ -26,15 +26,6 @@ Badges | All certificates are in https://github.com/jsaroni/jsaroni/tree/main/Ce
 </a>
 
 
-<a href="https://verified.sertifier.com/en/verify/50417793084750/" rel="nofollow">
-    <img src="https://github.com/jsaroni/jsaroni/blob/main/Certificates%20and%20Badges/2023/PennyLane_Explorer_2022.png" width="250" height="250" style="max-width: 100%;">
-</a>
-
-
-
-
-
-
 <a href="https://www.credly.com/earner/earned/badge/7c44cbcb-cf43-4aa6-bc2b-f8fde327b4f7" rel="nofollow">
     <img src="https://github.com/jsaroni/jsaroni/blob/main/Certificates%20and%20Badges/2023/ibm_spring_challenge_2023.png" width="250" height="250" style="max-width: 100%;">
 </a>
@@ -51,6 +42,9 @@ Badges | All certificates are in https://github.com/jsaroni/jsaroni/tree/main/Ce
 
 
 
+<a href="https://verified.sertifier.com/en/verify/50417793084750/" rel="nofollow">
+    <img src="https://github.com/jsaroni/jsaroni/blob/main/Certificates%20and%20Badges/2023/PennyLane_Explorer_2022.png" width="250" height="250" style="max-width: 100%;">
+</a>
 
 
 
