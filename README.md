@@ -20,7 +20,7 @@ Badges | All certificates are in https://github.com/jsaroni/jsaroni/tree/main/Ce
 
 
 <a href="https://www.credly.com/badges/93cc0c95-3361-4c6e-b127-18be15d70b0b" rel="nofollow">
-    <img src="https://user-images.githubusercontent.com/77505813/9db8a69c-1d82-43ea-9d05-3aa4c42f29e9.jpg" width="250" height="250">
+    ![qgss](https://github.com/jsaroni/jsaroni/assets/77505813/2b897541-374d-4328-8596-6b33d4efbcc2)
 </a>
 
 
@@ -28,3 +28,13 @@ Badges | All certificates are in https://github.com/jsaroni/jsaroni/tree/main/Ce
 <a href="https://www.credly.com/badges/93cc0c95-3361-4c6e-b127-18be15d70b0b" rel="nofollow">
     <img src="https://user-images.githubusercontent.com/64653897/201473060-4987468d-43c6-44fe-8457-10c029cc1416.png" width="140" height="140" style="max-width: 100%;">
 </a>
+
+
+
+
+
+
+
+
+
+
