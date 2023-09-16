@@ -20,8 +20,11 @@ Badges | All certificates are in https://github.com/jsaroni/jsaroni/tree/main/Ce
 
 
 <a href="https://www.credly.com/badges/93cc0c95-3361-4c6e-b127-18be15d70b0b" rel="nofollow">
-    ![qgss](https://github.com/jsaroni/jsaroni/assets/77505813/2b897541-374d-4328-8596-6b33d4efbcc2)
+    <img src="https://github.com/jsaroni/jsaroni/blob/main/qgss.png" width="140" height="140" style="max-width: 100%;">
 </a>
+
+
+
 
 
 
