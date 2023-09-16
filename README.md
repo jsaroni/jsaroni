@@ -19,6 +19,13 @@ Badges | All certificates are in https://github.com/jsaroni/jsaroni/tree/main/Ce
 </a>
 
 
+
+
+<a href="https://www.credly.com/earner/earned/badge/fd347c0e-adc4-4e01-a7c4-ad32f1a47d2b" rel="nofollow">
+    <img src="https://github.com/jsaroni/jsaroni/blob/main/Certificates%20and%20Badges/2023/ibm-certified-associate-developer-quantum-computation-using-qiskit-v0-2x.png" width="250" height="250" style="max-width: 100%;">
+</a>
+
+
 <a href="https://verified.sertifier.com/en/verify/50417793084750/" rel="nofollow">
     <img src="https://github.com/jsaroni/jsaroni/blob/main/Certificates%20and%20Badges/2023/PennyLane_Explorer_2022.png" width="250" height="250" style="max-width: 100%;">
 </a>
@@ -27,18 +34,21 @@ Badges | All certificates are in https://github.com/jsaroni/jsaroni/tree/main/Ce
 
 
 
-<a href="https://www.credly.com/earner/earned/badge/fd347c0e-adc4-4e01-a7c4-ad32f1a47d2b" rel="nofollow">
-    <img src="https://github.com/jsaroni/jsaroni/blob/main/Certificates%20and%20Badges/2023/ibm-certified-associate-developer-quantum-computation-using-qiskit-v0-2x.png" width="250" height="250" style="max-width: 100%;">
+
+<a href="https://www.credly.com/earner/earned/badge/7c44cbcb-cf43-4aa6-bc2b-f8fde327b4f7" rel="nofollow">
+    <img src="https://github.com/jsaroni/jsaroni/blob/main/Certificates%20and%20Badges/2023/ibm_spring_challenge_2023.png" width="250" height="250" style="max-width: 100%;">
 </a>
 
 
+<a href="https://www.credly.com/earner/earned/badge/7b9d30e9-775d-49a4-90d8-08f7d705ef68" rel="nofollow">
+    <img src="https://github.com/jsaroni/jsaroni/blob/main/Certificates%20and%20Badges/2023/ibm_fall_challenge_2022.png" width="250" height="250" style="max-width: 100%;">
+</a>
 
 
+<a href="https://www.credly.com/earner/earned/badge/127ca422-8291-40fc-8686-3449f9a20a80" rel="nofollow">
+    <img src="https://github.com/jsaroni/jsaroni/blob/main/Certificates%20and%20Badges/2023/qiskit-global-summer-school-2023-quantum-excellence.png" width="250" height="250" style="max-width: 100%;">
+</a>
 
-
-<img src="https://github.com/jsaroni/jsaroni/assets/77505813/9db8a69c-1d82-43ea-9d05-3aa4c42f29e9" width="250" height="250">
-<img src="https://github.com/jsaroni/jsaroni/assets/77505813/b9fa77d4-34b9-4060-9521-9442ae837d36" width="250" height="250">
-<img src="https://github.com/jsaroni/jsaroni/assets/77505813/3ff045f5-ad88-4c71-b389-f7a1e2597a90" width="250" height="250">
 
 
 
