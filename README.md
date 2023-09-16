@@ -11,7 +11,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-Badges | All certificates are in https://github.com/jsaroni/jsaroni/tree/main/Certificates
+Badges | All certificates are in https://github.com/jsaroni/jsaroni/tree/main/Certificates%20and%20Badges
+
 
 
 <a href="https://www.credly.com/badges/93cc0c95-3361-4c6e-b127-18be15d70b0b" rel="nofollow">
