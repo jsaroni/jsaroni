@@ -16,8 +16,12 @@ Badges | All certificates are in https://github.com/jsaroni/jsaroni/tree/main/Ce
 
 
 
+![qiskit-advocate](https://github.com/jsaroni/jsaroni/assets/77505813/9af4dac7-9961-4e1c-b1c8-dd65817873a0)
 
-<a href="https://www.credly.com/earner/earned/badge/bb1039cc-b1b5-448c-a4f1-5f81f13b1bd1" rel="nofollow">
+
+
+
+<a href="https://www.credly.com/badges/bb1039cc-b1b5-448c-a4f1-5f81f13b1bd1" rel="nofollow">
     <img src="https://github.com/jsaroni/jsaroni/assets/77505813/9082f306-0d4e-4413-9c2d-e5fd3eec0fe9.png" width="250" height="250" style="max-width: 100%;">
 </a>
 
