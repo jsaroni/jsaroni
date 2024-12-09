@@ -16,6 +16,12 @@ Badges | All certificates are in https://github.com/jsaroni/jsaroni/tree/main/Ce
 
 
 
+<a href="https://www.credly.com/badges/eadd7836-a985-4b3b-8e70-75270a7424d3" rel="nofollow">
+    <img src="https://github.com/jsaroni/jsaroni/blob/main/Certificates%20and%20Badges/2024/2024_20Qiskit_20Fall_20Fest_20Mentor.png" width="250" height="250" style="max-width: 100%;">
+</a>
+
+
+
 
 
 <a href="https://www.credly.com/badges/bb1039cc-b1b5-448c-a4f1-5f81f13b1bd1" rel="nofollow">
