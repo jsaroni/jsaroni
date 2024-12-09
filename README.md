@@ -22,13 +22,22 @@ Badges | All certificates are in https://github.com/jsaroni/jsaroni/tree/main/Ce
 
 
 
+<a href="https://www.credly.com/badges/07b6734f-403e-414d-bc8b-eaf1ae13110e/public_url" rel="nofollow">
+    <img src="https://github.com/jsaroni/jsaroni/blob/main/Certificates%20and%20Badges/2023/ibm-quantum-challenge-2024-achievement.png" width="250" height="250" style="max-width: 100%;">
+</a>
+
+
+
+<a href="https://www.credly.com/badges/27b5140a-9699-4434-8a2d-e7787e65620b" rel="nofollow">
+    <img src="https://github.com/jsaroni/jsaroni/blob/main/Certificates%20and%20Badges/2023/qiskit-global-summer-school-2024-quantum-excellence.png" width="250" height="250" style="max-width: 100%;">
+</a>
+
+
 
 
 <a href="https://www.credly.com/badges/bb1039cc-b1b5-448c-a4f1-5f81f13b1bd1" rel="nofollow">
     <img src="https://github.com/jsaroni/jsaroni/blob/main/Certificates%20and%20Badges/2023/qiskit-advocate.png" width="250" height="250" style="max-width: 100%;">
 </a>
-
-
 
 
 
@@ -64,17 +73,6 @@ Badges | All certificates are in https://github.com/jsaroni/jsaroni/tree/main/Ce
     <img src="https://github.com/jsaroni/jsaroni/blob/main/Certificates%20and%20Badges/2023/PennyLane_Explorer_2022.png" width="250" height="250" style="max-width: 100%;">
 </a>
 
-
-
-<a href="https://www.credly.com/badges/07b6734f-403e-414d-bc8b-eaf1ae13110e/public_url" rel="nofollow">
-    <img src="https://github.com/jsaroni/jsaroni/blob/main/Certificates%20and%20Badges/2023/ibm-quantum-challenge-2024-achievement.png" width="250" height="250" style="max-width: 100%;">
-</a>
-
-
-
-<a href="https://www.credly.com/badges/27b5140a-9699-4434-8a2d-e7787e65620b" rel="nofollow">
-    <img src="https://github.com/jsaroni/jsaroni/blob/main/Certificates%20and%20Badges/2023/qiskit-global-summer-school-2024-quantum-excellence.png" width="250" height="250" style="max-width: 100%;">
-</a>
 
 
 
