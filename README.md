@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jsaroni
-- Recent publication https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.134301?ft=1
+- Publications https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.134301?ft=1, https://dr.lib.iastate.edu/entities/publication/f3dbefc5-cfd8-406f-9856-ebc55af63da7
 - 👀 I’m interested in quantum computing algorithms
 - 🌱 I’m currently learning quantum computing simulations of non-equilibrium thermal quantum quenches 
 - 💞️ I’m looking to collaborate on quantum computing algorithms
