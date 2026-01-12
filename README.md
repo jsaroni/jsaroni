@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @jsaroni
-- Publications https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.134301?ft=1, https://dr.lib.iastate.edu/entities/publication/f3dbefc5-cfd8-406f-9856-ebc55af63da7
+- PhD dissertation: https://dr.lib.iastate.edu/entities/publication/f3dbefc5-cfd8-406f-9856-ebc55af63da7
+- Publications: https://scholar.google.com/citations?user=AZ1o7K8AAAAJ&hl=en
 - 👀 I’m interested in quantum computing algorithms
 - 🌱 I’m currently learning quantum computing simulations of non-equilibrium thermal quantum quenches 
 - 💞️ I’m looking to collaborate on quantum computing algorithms
-- 📫 How to reach me; https://www.linkedin.com/in/jason-saroni-77813a115/ (my LinkedIn)
+- 📫 How to reach me: https://www.linkedin.com/in/jason-saroni-77813a115/ (my LinkedIn)
 
 <!---
 jsaroni/jsaroni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
