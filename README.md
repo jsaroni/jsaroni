@@ -11,6 +11,8 @@ jsaroni/jsaroni is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+[![GitHub Streak](https://demolab.com)](https://git.io/streak-stats)
+
 
 Badges | All certificates are in https://github.com/jsaroni/jsaroni/tree/main/Certificates%20and%20Badges
 
