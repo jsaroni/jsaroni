@@ -18,6 +18,12 @@ Badges | All certificates are in https://github.com/jsaroni/jsaroni/tree/main/Ce
 
 
 
+<a href="https://www.credly.com/badges/e28f9006-4a4f-4a9a-8041-5098536f9d7e" rel="nofollow">
+    <img src="https://github.com/jsaroni/jsaroni/blob/main/Certificates%2C%20Badges%2C%20and%20Awards/2026/qiskit-global-summer-school-2026-quantum-excellence.png" width="250" height="250" style="max-width: 100%;">
+</a>
+
+
+
 <a href="https://www.credly.com/badges/e39f8d18-986f-4029-92bf-a7ab7e62811e" rel="nofollow">
     <img src="https://github.com/jsaroni/jsaroni/blob/main/Certificates%2C%20Badges%2C%20and%20Awards/2025/Qiskit_Advocate_2025.png" width="250" height="250" style="max-width: 100%;">
 </a>
